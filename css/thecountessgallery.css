@@ -1,0 +1,122 @@
+body {
+    font-family: Arial,Verdana,Helvetica,sans-serif;
+font-size: 68.8%;
+margin: 0;
+height: 100%;
+color: #000;
+/*background: #37889b;*/
+    
+}
+
+.navbar-inner {
+    min-height: 60px;
+}
+.navbar-fixed-top, .navbar-fixed-bottom {   
+    right: 89px;
+    left: 90px;
+}
+
+#footer {
+background: #fff;
+clear: both;
+overflow: hidden;
+}
+
+ #footer {
+background: #222;
+}
+
+ #site-map ul li a:hover, #site-map .t-category a:hover {
+color: #cbcccc;
+}
+
+#site-map ul li a:hover, #site-map .t-category a:hover {
+color: #292929;
+}
+
+#site-map .t-category a {
+color: #a7a8aa;
+}
+
+#site-map .t-category a {
+color: #4e4e4e;
+}
+
+#site-map a:hover {
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+a {
+color: #666;
+cursor: pointer;
+text-decoration: none;
+}
+
+#content {
+margin: 0 auto;
+width: 940px;
+padding-right: 34px;
+text-align: left;
+position: relative;
+}
+
+#site-map {
+background-image: url(/sites/all/themes/louvre/img/skin/bg-site-map-home.png);
+}
+
+#site-map {
+padding: 0 0 0 22px;
+margin: 28px 0 33px 0;
+overflow: hidden;
+zoom: 1;
+background: url(/sites/all/themes/louvre/img/skin/bg-site-map.png) left top repeat-y;
+}
+
+* {
+margin: 0;
+padding: 0;
+vertical-align: baseline;
+}
+
+#site-map .col {
+float: left;
+padding: 0 12px 0 10px;
+width: 126px;
+}
+
+ #site-map ul li a:hover,  #site-map .t-category a:hover {
+color: #cbcccc;
+}
+#site-map ul {
+padding: 0 0 14px 0;
+}
+
+ul {
+list-style: none;
+}
+
+.navbar {
+color: #37889b;
+}
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+#mentions li.first {
+background: 0;
+}
+
+#mentions li {
+display: inline-block;
+padding: 0 5px 0 10px;
+background: url(/sites/all/themes/louvre/img/skin/sprites-icons.png) 0 -591px no-repeat;
+}
+
